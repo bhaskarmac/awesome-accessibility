@@ -14,7 +14,7 @@
 * [Accessibility by Google](https://developers.google.com/web/fundamentals/accessibility/)
 * [Introduction to Web Accessibility](https://webaim.org/intro/)
 * [Top 10 Tips for Making Your Website Accessible](https://webaccess.berkeley.edu/resources/tips/web-accessibility)
-
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
 ## Tutorials
 
