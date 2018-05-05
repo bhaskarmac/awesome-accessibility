@@ -6,14 +6,15 @@
 * [Resources](#resources)
 * [Tutorials](#tutorials)
 * [Videos](#videos)
-* [Books](#books)
-* [Blogs](#blogs)
-* [Miscellaneous Resources](#miscellaneous-resources)
 
 
 ## Resources
 
-* [Sample Text](http://api.jquery.com/) - Sample text
+* [Web Accessibility Initiative](https://www.w3.org/WAI/intro/accessibility.php) - WAI: Strategies, guidelines, resources to make the Web accessible to people with disabilities
+* [Accessibility by Google](https://developers.google.com/web/fundamentals/accessibility/)
+* [Introduction to Web Accessibility](https://webaim.org/intro/)
+* [Top 10 Tips for Making Your Website Accessible](https://webaccess.berkeley.edu/resources/tips/web-accessibility)
+
 
 ## Tutorials
 
@@ -21,16 +22,5 @@
 
 ## Videos
 
-* [Sample Text](http://api.jquery.com/) - Sample text
-
-## Books
-
-* [Sample Text](http://api.jquery.com/) - Sample text
-
-## Blogs
-
-* [Sample Text](http://api.jquery.com/) - Sample text
-
-## Miscellaneous Resources
-
-* [Sample Text](http://api.jquery.com/) - Sample text
+* [Web Accessibility by Google](https://in.udacity.com/course/web-accessibility--ud891)
+* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
