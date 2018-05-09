@@ -18,7 +18,7 @@
 
 ## Tutorials
 
-* [Sample Text](http://api.jquery.com/) - Sample text
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ## Videos
 
