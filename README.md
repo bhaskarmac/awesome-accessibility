@@ -11,6 +11,7 @@
 ## Resources
 
 * [Web Accessibility Initiative](https://www.w3.org/WAI/intro/accessibility.php) - WAI: Strategies, guidelines, resources to make the Web accessible to people with disabilities
+* [Custom elements accessibility guidelines](https://www.w3.org/TR/2019/NOTE-wai-aria-practices-1.1-20190207/examples/)
 * [Accessibility by Google](https://developers.google.com/web/fundamentals/accessibility/)
 * [Introduction to Web Accessibility](https://webaim.org/intro/)
 * [Top 10 Tips for Making Your Website Accessible](https://webaccess.berkeley.edu/resources/tips/web-accessibility)
